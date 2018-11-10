@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">一键清除msa</string>
+    <string name="notes">注意事项：\n
+        1、执行该命令是有风险性的，请慎重考虑，后果本人概不负责。\n
+        2、本次操作的是卸载msa,本人自己手机已测试\n
+        3、author by Goach
+    </string>
+</resources>
